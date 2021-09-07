@@ -1,6 +1,6 @@
 # Clocks
 
-CS-210 Programming Language
+CS-210 Programming Languages
 
 #Summarize the project and what problem it was solving.
 
